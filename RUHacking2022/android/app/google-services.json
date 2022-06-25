@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489616946953",
+    "project_id": "ru-hacking-2022",
+    "storage_bucket": "ru-hacking-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489616946953:android:048a61efec8f1e904485d8",
+        "android_client_info": {
+          "package_name": "com.ruhacking2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489616946953-1u5ieeqrqbnu1b97910jmbr8qj6eg9eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLWvCrtyqgMpYUCzY5643RSqTBEq6DaF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489616946953-1u5ieeqrqbnu1b97910jmbr8qj6eg9eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
