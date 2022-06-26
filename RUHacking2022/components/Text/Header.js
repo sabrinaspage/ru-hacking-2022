@@ -1,7 +1,6 @@
 import React from "react";
 import { Text, StyleSheet } from 'react-native';
-import { useFonts } from 'expo-font';
-import AppLoading from 'expo-app-loading';
+
 
 export function Header2({ title }) {
   return (

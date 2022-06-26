@@ -1,7 +1,6 @@
 import React from "react";
 import { TextInput, StyleSheet } from 'react-native';
-import { useFonts } from 'expo-font';
-import AppLoading from 'expo-app-loading';
+
 
 export default function GenericTextInput({ startText }) {
   const [text, onChangeText] = React.useState("");
